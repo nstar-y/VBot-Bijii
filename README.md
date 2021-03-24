@@ -16,7 +16,7 @@ Virtex BOT Whatsapp Ganas 2021
 ```bash
 > setelah kamu membuat perintah "node index.js" lalu scan qr whatsapp web mu!
 > cari target grup whatsapp
-> kirim pesan "bijibot" (tanpa tanda ")
+> kirim pesan "vbiji" (tanpa tanda ")
 > selamat virtex berhasil dikirim.
 ```
  
