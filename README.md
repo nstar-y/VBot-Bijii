@@ -6,8 +6,8 @@ Virtex BOT Whatsapp Ganas 2021
 > pkg update && pkg upgrade
 > pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/NastarGs/VBot-Biji
-> cd VBot-Biji
+> git clone https://github.com/NastarGs/VBot-Bijii
+> cd VBot-Bijii
 > npm install
 > node index.js
 ```
