@@ -1,7 +1,7 @@
 {
   "name": "virtexwa",
   "version": "1.6.9",
-  "description": "Virtex bot whatsapp created by @NastarGs",
+  "description": "Creted by @NastarGs",
   "main": "index.js",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NastarGs/BiBotVirus.git"
+    "url": "git+https://github.com/NastarGs/VBot-Biji.git"
   },
   "keywords": [
     "virtex",
@@ -26,7 +26,7 @@
   "author": "st4rz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NastarGs/BiBotVirus/issues"
+    "url": "https://github.com/NastarGs/VBot-Biji/issues"
   },
-  "homepage": "https://github.com/NastarGs/BiBotVirus#readme"
+  "homepage": "https://github.com/NastarGs/VBot-Biji#readme"
 }
